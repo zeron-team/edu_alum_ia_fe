@@ -3,6 +3,21 @@
 ## Dependencias
 - npm install axios
 
+## estructuras
+
+``` text
+src/
+├── components/
+│   ├── NivelSelector.js
+│   ├── CicloSelector.js
+│   ├── AreaSelector.js
+│   ├── TemaSelector.js
+│   ├── Explicacion.js
+├── services/
+│   ├── api.js
+├── App.js
+├── index.js
+```
 
 
 
